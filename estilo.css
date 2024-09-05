@@ -1,0 +1,22 @@
+body{
+    background: darkgray;
+    color: blueviolet;
+}
+
+a{
+    color:black;
+    text-decoration: none;
+}
+
+a:hover{
+    
+    color:crimson;
+}
+
+img{
+    border:5px groove rebeccapurple;
+    max-width: 900px;
+    width: 900px;
+}
+
+
